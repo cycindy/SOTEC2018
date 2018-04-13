@@ -16,7 +16,5 @@ public class Student {
 			super();
 			Name = name;
 		}
-		
-		private int Matrikel;
-		
+
 }
