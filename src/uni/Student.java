@@ -11,5 +11,10 @@ public class Student {
 		public void setName(String name) {
 			Name = name;
 		}
+
+		public Student(String name) {
+			super();
+			Name = name;
+		}
 		
 }
