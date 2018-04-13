@@ -17,4 +17,6 @@ public class Student {
 			Name = name;
 		}
 		
+		private int Matrikel;
+		
 }
