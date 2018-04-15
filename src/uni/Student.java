@@ -19,5 +19,5 @@ public class Student {
 
 		private int Zahl;
 		
-		private int test;
+		private int test2;
 }
